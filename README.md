@@ -1,8 +1,8 @@
-- 👋 Hi, I'm Abhishek Kumar, a 3rd year  CSE student .
+- 👋 Hi, I'm Abhishek Kumar, a Finial year  CSE student .
 - 🚀 I have learned programming languages like C, C++, JavaScript and I also know about HTML5, CSS3 and Bootstrap.
 - 👀 I’m interested in Web Development. 
 - 🌴 I'm currently practicing Data Structure and Algorithm.
-- 🌱 I’m currently learning Full Stack Java Development.
+- 🌱 I’m currently learning Full Stack Web Development.
 - 🔎 I'm looking forward to internship opportunities.
 - 💞️ I’m looking to collaborate on Web Development Projects.
 - 😍 Fun fact :-I love to cooking and explore new things .
