@@ -26,12 +26,13 @@
 ## 🚀 About Me
 
 - 🎓 Graduated in **Computer Science & Engineering** from **Chameli Devi Group of Institutions, Indore**
-- 👨‍💻 Focused on **Web Development** and **DSA**
-- 🌱 Currently exploring **Full Stack Web Development**
-- 🔍 Actively seeking **SDE Opportunities**
-- 🤝 Eager to collaborate on **Open Source** and **Web Dev Projects**
+- 👨‍💻 Software Developer with **1.5+ year**s of hands-on experience in **Full Stack Web Development**
+- 🧠 Strong foundation in **Data Structures & Algorithms** with consistent problem-solving practice
+- 🌱 Currently building scalable applications using **Java, Spring Boot, React, and Next.js**
+- 🔍 Actively seeking **SDE / Software Developer** opportunities
+- 🤝 Open to collaborating on **Open Source** and **Fullstack projects**
 - 🍳 **Fun Fact:** I enjoy cooking and exploring emerging technologies
-- 📫 **Reach me at:** [krabhishek0321@gmail.com](mailto:krabhishek0321@gmail.com)
+- 📫 **Reach me at:** [krabhishek2k02@gmail.com](mailto:krabhishek2k02@gmail.com)
 
 ---
 
