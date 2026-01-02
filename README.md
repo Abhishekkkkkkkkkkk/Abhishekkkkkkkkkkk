@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi there, I'm Abhishek Kumar!</h1>
 
 <p align="center">
-  🎓 <b>Recent B.Tech CSE Graduate</b> <br>
+  🎓 <b>FullStack Software Developer</b> <br>
   💻 <b>Aspiring Software Development Engineer (SDE)</b> <br>
-  🌐 <b>Passionate Web Developer</b> | 📚 <b>DSA Enthusiast</b>
+  🌐 <b>Frontend</b> | 📚 <b>DSA Enthusiast</b>
 </p>
 
 <p align="center">
