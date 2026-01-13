@@ -26,7 +26,7 @@
 ## 🚀 About Me
 
 - 🎓 Graduated in **Computer Science & Engineering** from **Chameli Devi Group of Institutions, Indore**
-- 👨‍💻 Software Developer with **1.5+ year**s of hands-on experience in **Full Stack Web Development**
+- 👨‍💻 Software Developer with **2+ year**s of hands-on experience in **Full Stack Web Development**
 - 🧠 Strong foundation in **Data Structures & Algorithms** with consistent problem-solving practice
 - 🌱 Currently building scalable applications using **Java, Spring Boot, React, and Next.js**
 - 🔍 Actively seeking **SDE / Software Developer** opportunities
