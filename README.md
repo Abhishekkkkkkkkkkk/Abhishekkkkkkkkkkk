@@ -36,7 +36,7 @@ public class Abhishek extends Developer {
     String name        = "Abhishek Kumar";
     String role        = "Software Development Engineer (SDE)";
     String education   = "B.E. CSE — Chameli Devi Group of Institutions, Indore";
-    String experience  = "3+ years in Full Stack Web Development";
+    String experience  = "3+ years in Software Development";
     String[] goals     = { "Build scalable systems", "Master DSA", "Contribute to Open Source" };
     boolean openToWork = true;
 
@@ -52,7 +52,7 @@ public class Abhishek extends Developer {
 
 <table>
 <tr><td>🎓</td><td>CSE Graduate from <b>Chameli Devi Group of Institutions, Indore</b></td></tr>
-<tr><td>💼</td><td><b>2+ years</b> of Full Stack development experience</td></tr>
+<tr><td>💼</td><td><b>3+ years</b> of Full Stack development experience</td></tr>
 <tr><td>🌱</td><td>Currently scaling up with <b>Spring Boot</b> & <b>Next.js</b></td></tr>
 <tr><td>🔍</td><td>Actively seeking <b>SDE / Software Developer</b> roles</td></tr>
 <tr><td>🤝</td><td>Open to <b>Open Source</b> & <b>Fullstack</b> collaborations</td></tr>
