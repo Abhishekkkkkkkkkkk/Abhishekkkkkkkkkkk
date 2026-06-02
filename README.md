@@ -36,7 +36,7 @@ public class Abhishek extends Developer {
     String name        = "Abhishek Kumar";
     String role        = "Software Development Engineer (SDE)";
     String education   = "B.E. CSE — Chameli Devi Group of Institutions, Indore";
-    String experience  = "2.5+ years in Full Stack Web Development";
+    String experience  = "3+ years in Full Stack Web Development";
     String[] goals     = { "Build scalable systems", "Master DSA", "Contribute to Open Source" };
     boolean openToWork = true;
 
