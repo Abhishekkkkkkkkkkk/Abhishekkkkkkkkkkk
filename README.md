@@ -23,12 +23,10 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-```java
-public class Abhishek extends Developer {
+    <td width="50%" valign="top"><pre><code class="language-java">public class Abhishek extends Developer {
     String name        = "Abhishek Kumar";
     String role        = "Java Full Stack Developer";
-    String experience  = "3+ Years (BFSI & E-Commerce)";
+    String experience  = "3+ Years (BFSI &amp; E-Commerce)";
     String location    = "Pune, Maharashtra, India";
     String education   = "B.Tech. CSE — CDGI, Indore";
     boolean openToWork = true;
@@ -42,8 +40,7 @@ public class Abhishek extends Developer {
     String funFact() {
         return "I cook as well as I code 🍳";
     }
-}
-```
+}</code></pre>
     </td>
     <td width="50%" valign="top">
       <h3>📋 Profile Overview</h3>
