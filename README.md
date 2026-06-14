@@ -172,23 +172,19 @@ public class Abhishek extends Developer {
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-
-<!-- Official Native GitHub Achievements -->
-<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/pull-shark-default.png" width="75px" alt="Pull Shark Badge" />&nbsp;
-<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/yolo-default.png" width="75px" alt="YOLO Badge" />&nbsp;
-<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/quickdraw-default.png" width="75px" alt="Quickdraw Badge" />&nbsp;
-<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/pair-extraordinaire-default.png" width="75px" alt="Pair Extraordinaire Badge" />&nbsp;
-<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/starstruck-default.png" width="75px" alt="Starstruck Badge" />
-
-<br/><br/>
-
-<!-- Dynamic Trophy case as backup/secondary -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhishekkkkkkkkkkk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophy Case" />
-</a>
-
-</div>
+<p align="center">
+  <!-- Official Native GitHub Achievements -->
+  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/pull-shark-default.png" width="75" alt="Pull Shark Badge" />&nbsp;
+  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/yolo-default.png" width="75" alt="YOLO Badge" />&nbsp;
+  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/quickdraw-default.png" width="75" alt="Quickdraw Badge" />&nbsp;
+  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/pair-extraordinaire-default.png" width="75" alt="Pair Extraordinaire Badge" />&nbsp;
+  <img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/starstruck-default.png" width="75" alt="Starstruck Badge" />
+  <br/><br/>
+  <!-- Dynamic Trophy case as backup/secondary -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abhishekkkkkkkkkkk&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="Trophy Case" />
+  </a>
+</p>
 
 ---
 
