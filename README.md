@@ -21,15 +21,17 @@
 
 ## 🧑‍💻 About Me
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top"><pre><code class="language-java">public class Abhishek extends Developer {
-    String name        = "Abhishek Kumar";
-    String role        = "Java Full Stack Developer";
-    String experience  = "3+ Years (BFSI &amp; E-Commerce)";
-    String location    = "Pune, Maharashtra, India";
-    String education   = "B.Tech. CSE — CDGI, Indore";
-    boolean openToWork = true;
+<pre><code class="language-java">public class Abhishek extends Developer {
+    String name          = "Abhishek Kumar";
+    String role          = "Java Full Stack Developer";
+    String experience    = "3+ Years (BFSI &amp; E-Commerce)";
+    String location      = "Pune, Maharashtra, India";
+    String contactPhone  = "+91-8421573950";
+    String emailAddress  = "krabhishek2k02@gmail.com";
+    String portfolioUrl  = "krabhishek.vercel.app";
+    String educationInfo = "B.Tech. CSE — CDGI, Indore";
+    boolean openToWork   = true;
+
     String[] currentlyBuilding() {
         return new String[]{ 
             "Java / Spring Boot", 
@@ -37,24 +39,11 @@
             "Microservices Architecture" 
         };
     }
+
     String funFact() {
         return "I cook as well as I code 🍳";
     }
 }</code></pre>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 Profile Overview</h3>
-      <ul>
-        <li>👤 <b>Name</b>: Abhishek Kumar</li>
-        <li>🎯 <b>Role</b>: Java Full Stack Developer (3+ Years Experience)</li>
-        <li>📍 <b>Location</b>: Pune, Maharashtra</li>
-        <li>📞 <b>Contact</b>: <a href="tel:+918421573950">+91-8421573950</a></li>
-        <li>📬 <b>Email</b>: <a href="mailto:krabhishek2k02@gmail.com">krabhishek2k02@gmail.com</a></li>
-        <li>🌐 <b>Portfolio</b>: <a href="https://krabhishek.vercel.app/">krabhishek.vercel.app</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
 ---
 
 ## 🛠️ Tech Stack
