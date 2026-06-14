@@ -19,7 +19,7 @@
 
 ---
 
-## 🧑‍💻 About Me & Interview Dossier
+## 🧑‍💻 About Me
 
 <table border="0" width="100%">
   <tr>
@@ -46,10 +46,10 @@ public class Abhishek extends Developer {
 ```
     </td>
     <td width="50%" valign="top">
-      <h3>📋 Complete Candidate Portfolio</h3>
+      <h3>📋 Profile Overview</h3>
       <ul>
         <li>👤 <b>Name</b>: Abhishek Kumar</li>
-        <li>🎯 <b>Target Role</b>: Java Full Stack Developer (3+ Years Experience)</li>
+        <li>🎯 <b>Role</b>: Java Full Stack Developer (3+ Years Experience)</li>
         <li>📍 <b>Location</b>: Pune, Maharashtra</li>
         <li>📞 <b>Contact</b>: <a href="tel:+918421573950">+91-8421573950</a></li>
         <li>📬 <b>Email</b>: <a href="mailto:krabhishek2k02@gmail.com">krabhishek2k02@gmail.com</a></li>
