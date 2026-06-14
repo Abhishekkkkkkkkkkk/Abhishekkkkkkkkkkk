@@ -24,7 +24,6 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-
 ```java
 public class Abhishek extends Developer {
     String name        = "Abhishek Kumar";
@@ -33,7 +32,6 @@ public class Abhishek extends Developer {
     String location    = "Pune, Maharashtra, India";
     String education   = "B.Tech. CSE — CDGI, Indore";
     boolean openToWork = true;
-
     String[] currentlyBuilding() {
         return new String[]{ 
             "Java / Spring Boot", 
@@ -41,43 +39,25 @@ public class Abhishek extends Developer {
             "Microservices Architecture" 
         };
     }
-
     String funFact() {
         return "I cook as well as I code 🍳";
     }
 }
 ```
-
     </td>
     <td width="50%" valign="top">
-
-### 📋 Complete Candidate Portfolio
-* 👤 **Name**: Abhishek Kumar
-* 🎯 **Target Role**: Java Full Stack Developer (3+ Years Experience)
-* 📍 **Location**: Pune, Maharashtra
-* 📞 **Contact**: [+91-8421573950](tel:+918421573950)
-* 📬 **Email**: [krabhishek2k02@gmail.com](mailto:krabhishek2k02@gmail.com)
-* 🌐 **Portfolio**: [krabhishek.vercel.app](https://krabhishek.vercel.app/)
-
+      <h3>📋 Complete Candidate Portfolio</h3>
+      <ul>
+        <li>👤 <b>Name</b>: Abhishek Kumar</li>
+        <li>🎯 <b>Target Role</b>: Java Full Stack Developer (3+ Years Experience)</li>
+        <li>📍 <b>Location</b>: Pune, Maharashtra</li>
+        <li>📞 <b>Contact</b>: <a href="tel:+918421573950">+91-8421573950</a></li>
+        <li>📬 <b>Email</b>: <a href="mailto:krabhishek2k02@gmail.com">krabhishek2k02@gmail.com</a></li>
+        <li>🌐 <b>Portfolio</b>: <a href="https://krabhishek.vercel.app/">krabhishek.vercel.app</a></li>
+      </ul>
     </td>
   </tr>
 </table>
-
-<details>
-<summary><b>🗣️ Professional Interview Pitch / Self-Introduction Script (Click to expand)</b></summary>
-<br/>
-<blockquote style="border-left: 4px solid #00D4FF; background-color: #0d1117; padding: 15px; border-radius: 6px;">
-<p>Good morning, and thank you for the opportunity.</p>
-<p>My name is <b>Abhishek Kumar</b>, and I'm a Java Full Stack Developer with over 3 years of experience building secure, scalable, and high-performance web applications, mainly in the BFSI and e-commerce domains.</p>
-<p>I started my journey as a Frontend Developer Intern at Sofrego Private Limited, where I worked on building responsive user interfaces using React.js, Next.js, and Tailwind CSS. As I became more involved in the complete application development lifecycle, I gradually moved into backend development and transitioned into a full-time Java Full Stack Developer role.</p>
-<p>Since then, I've been working with Java, Spring Boot, Spring Security, Hibernate/JPA, MySQL, MongoDB, React.js, and Next.js to develop and maintain full-stack applications. One of the key projects I worked on was a secure banking loan form management system where I developed REST APIs, implemented authentication and authorization using JWT and OAuth, handled database operations, and generated PDF documents dynamically from user-submitted data. This solution helped automate document processing and significantly improved operational efficiency.</p>
-<p>I also worked on writing unit tests using JUnit and Mockito, documenting APIs with Swagger, and worked with tools like Git, Maven, and Docker.</p>
-<p>Apart from my professional work, I enjoy building personal projects to explore new technologies. One of my favorite projects is <b>GetMeAChai</b>, a creator-support platform where I integrated Razorpay payment gateways, NextAuth authentication, and MongoDB-based data management. I also worked on improving performance and user experience through efficient database queries and responsive UI design.</p>
-<p>I have a strong interest in problem-solving and software engineering fundamentals, and I've solved more than 450 DSA problems on platforms like LeetCode and GeeksforGeeks. This has helped me strengthen my analytical thinking and coding skills.</p>
-<p>Currently, I'm looking for an opportunity where I can contribute to meaningful products, work on scalable systems, and continue growing both technically and professionally as a full stack developer.</p>
-</blockquote>
-</details>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -260,37 +240,16 @@ public class Abhishek extends Developer {
 
 ---
 
-## 🏆 Achievements, Certifications & Behavioral Profile
+## 🏆 Achievements & Certifications
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Key Achievements</h3>
-      <ul>
-        <li><b>DSA Problem Solving</b>: Solved 450+ data structures and algorithm problems across LeetCode and GeeksforGeeks, demonstrating strong analytical and logical reasoning.</li>
-        <li><b>100 Days of Learning Challenge</b>: Successfully completed the continuous learning challenge, focusing on Advanced Java, Spring Boot microservices, and system design patterns.</li>
-        <li><b>Full Lifecycle Understanding</b>: Strong comprehension of the Software Development Lifecycle (SDLC), including requirements gathering, development, testing, CI/CD, and monitoring.</li>
-      </ul>
-      <h3>📜 Professional Certifications</h3>
-      <ul>
-        <li><b>Backend Web Development</b>: Certified in JavaScript, Node.js, and Express.js by the Microsoft Learn Student Ambassadors program.</li>
-        <li><b>HackerRank Verification</b>: Certified in CSS, JavaScript, React.js, and SQL by HackerRank.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Behavioral Profile</h3>
-      <ul>
-        <li><b>Core Strengths</b>: Exceptional consistency, dedication to code quality, rapid adaptation to new frameworks, and active team communication.</li>
-        <li><b>Area of Improvement (Weakness)</b>: A tendency to multitask, which occasionally spreads focus. I actively address this by utilizing Agile prioritization, Jira boards, and time-boxing tasks to maintain high quality.</li>
-      </ul>
-      <h3>🍳 Personal Interests</h3>
-      <ul>
-        <li><b>Cooking</b>: Relaxes and exercises creativity, preparing diverse recipes.</li>
-        <li><b>Mobile Gaming</b>: Keeps quick-thinking reflexes sharp and strategic thinking active.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🚀 Key Achievements
+* **DSA Problem Solving**: Solved 450+ data structures and algorithm problems across LeetCode and GeeksforGeeks, demonstrating strong analytical and logical reasoning.
+* **100 Days of Learning Challenge**: Successfully completed the continuous learning challenge, focusing on Advanced Java, Spring Boot microservices, and system design patterns.
+* **Full Lifecycle Understanding**: Strong comprehension of the Software Development Lifecycle (SDLC), including requirements gathering, development, testing, CI/CD, and monitoring.
+
+### 📜 Professional Certifications
+* **Backend Web Development**: Certified in JavaScript, Node.js, and Express.js by the Microsoft Learn Student Ambassadors program.
+* **HackerRank Verification**: Certified in CSS, JavaScript, React.js, and SQL by HackerRank.
 
 ---
 
