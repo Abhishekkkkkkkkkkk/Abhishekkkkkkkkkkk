@@ -271,7 +271,6 @@ public class Abhishek extends Developer {
         <li><b>100 Days of Learning Challenge</b>: Successfully completed the continuous learning challenge, focusing on Advanced Java, Spring Boot microservices, and system design patterns.</li>
         <li><b>Full Lifecycle Understanding</b>: Strong comprehension of the Software Development Lifecycle (SDLC), including requirements gathering, development, testing, CI/CD, and monitoring.</li>
       </ul>
-      
       <h3>📜 Professional Certifications</h3>
       <ul>
         <li><b>Backend Web Development</b>: Certified in JavaScript, Node.js, and Express.js by the Microsoft Learn Student Ambassadors program.</li>
@@ -284,7 +283,6 @@ public class Abhishek extends Developer {
         <li><b>Core Strengths</b>: Exceptional consistency, dedication to code quality, rapid adaptation to new frameworks, and active team communication.</li>
         <li><b>Area of Improvement (Weakness)</b>: A tendency to multitask, which occasionally spreads focus. I actively address this by utilizing Agile prioritization, Jira boards, and time-boxing tasks to maintain high quality.</li>
       </ul>
-      
       <h3>🍳 Personal Interests</h3>
       <ul>
         <li><b>Cooking</b>: Relaxes and exercises creativity, preparing diverse recipes.</li>
