@@ -175,11 +175,11 @@ public class Abhishek extends Developer {
 <div align="center">
 
 <!-- Official Native GitHub Achievements -->
-<img src="https://github.com/drknzz/GitHub-Achievements/raw/main/images/pull-shark-default.png" width="75px" alt="Pull Shark Badge" />&nbsp;
-<img src="https://github.com/drknzz/GitHub-Achievements/raw/main/images/yolo-default.png" width="75px" alt="YOLO Badge" />&nbsp;
-<img src="https://github.com/drknzz/GitHub-Achievements/raw/main/images/quickdraw-default.png" width="75px" alt="Quickdraw Badge" />&nbsp;
-<img src="https://github.com/drknzz/GitHub-Achievements/raw/main/images/pair-extraordinaire-default.png" width="75px" alt="Pair Extraordinaire Badge" />&nbsp;
-<img src="https://github.com/drknzz/GitHub-Achievements/raw/main/images/starstruck-default.png" width="75px" alt="Starstruck Badge" />
+<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/pull-shark-default.png" width="75px" alt="Pull Shark Badge" />&nbsp;
+<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/yolo-default.png" width="75px" alt="YOLO Badge" />&nbsp;
+<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/quickdraw-default.png" width="75px" alt="Quickdraw Badge" />&nbsp;
+<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/pair-extraordinaire-default.png" width="75px" alt="Pair Extraordinaire Badge" />&nbsp;
+<img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/starstruck-default.png" width="75px" alt="Starstruck Badge" />
 
 <br/><br/>
 
