@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Custom SVG Neon Header Banner -->
 <!-- Custom Animated SVG Header Banner -->
 <img src="./header.svg" alt="Abhishek Kumar Banner" width="100%" />
 
@@ -20,25 +19,27 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me & Interview Dossier
 
 <table border="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="50%" valign="top">
 
 ```java
 public class Abhishek extends Developer {
     String name        = "Abhishek Kumar";
-    String role        = "Software Development Engineer (SDE)";
+    String role        = "Java Full Stack Developer";
+    String experience  = "3+ Years (BFSI & E-Commerce)";
+    String location    = "Pune, Maharashtra, India";
     String education   = "B.Tech. CSE — CDGI, Indore";
-    String experience  = "3+ Years in Software Development";
-    String[] goals     = { "Build scalable systems", 
-                           "Master DSA", 
-                           "Contribute to Open Source" };
     boolean openToWork = true;
 
     String[] currentlyBuilding() {
-        return new String[]{ "Java", "Spring Boot", "Next.js" };
+        return new String[]{ 
+            "Java / Spring Boot", 
+            "Next.js / TypeScript", 
+            "Microservices Architecture" 
+        };
     }
 
     String funFact() {
@@ -48,19 +49,34 @@ public class Abhishek extends Developer {
 ```
 
     </td>
-    <td width="45%" valign="top">
+    <td width="50%" valign="top">
 
-### 💡 Quick Facts
-* 🎓 **CSE Graduate** from *Chameli Devi Group of Institutions, Indore*
-* 💼 **3+ Years** of professional Software Development experience
-* 🚀 **Stack Specialization**: Enterprise Java & Modern React Ecosystems
-* 🔍 **Actively Seeking**: SDE, Software Developer, & Full Stack Engineer roles
-* 🤝 **Open To**: Collaborations on scalable backend systems, APIs, or open-source projects
-* 📬 **Direct Contact**: [krabhishek2k02@gmail.com](mailto:krabhishek2k02@gmail.com)
+### 📋 Complete Candidate Portfolio
+* 👤 **Name**: Abhishek Kumar
+* 🎯 **Target Role**: Java Full Stack Developer (3+ Years Experience)
+* 📍 **Location**: Pune, Maharashtra
+* 📞 **Contact**: [+91-8421573950](tel:+918421573950)
+* 📬 **Email**: [krabhishek2k02@gmail.com](mailto:krabhishek2k02@gmail.com)
+* 🌐 **Portfolio**: [krabhishek.vercel.app](https://krabhishek.vercel.app/)
 
     </td>
   </tr>
 </table>
+
+<details>
+<summary><b>🗣️ Professional Interview Pitch / Self-Introduction Script (Click to expand)</b></summary>
+<br/>
+<blockquote style="border-left: 4px solid #00D4FF; background-color: #0d1117; padding: 15px; border-radius: 6px;">
+<p>Good morning, and thank you for the opportunity.</p>
+<p>My name is <b>Abhishek Kumar</b>, and I'm a Java Full Stack Developer with over 3 years of experience building secure, scalable, and high-performance web applications, mainly in the BFSI and e-commerce domains.</p>
+<p>I started my journey as a Frontend Developer Intern at Sofrego Private Limited, where I worked on building responsive user interfaces using React.js, Next.js, and Tailwind CSS. As I became more involved in the complete application development lifecycle, I gradually moved into backend development and transitioned into a full-time Java Full Stack Developer role.</p>
+<p>Since then, I've been working with Java, Spring Boot, Spring Security, Hibernate/JPA, MySQL, MongoDB, React.js, and Next.js to develop and maintain full-stack applications. One of the key projects I worked on was a secure banking loan form management system where I developed REST APIs, implemented authentication and authorization using JWT and OAuth, handled database operations, and generated PDF documents dynamically from user-submitted data. This solution helped automate document processing and significantly improved operational efficiency.</p>
+<p>I also worked on writing unit tests using JUnit and Mockito, documenting APIs with Swagger, and worked with tools like Git, Maven, and Docker.</p>
+<p>Apart from my professional work, I enjoy building personal projects to explore new technologies. One of my favorite projects is <b>GetMeAChai</b>, a creator-support platform where I integrated Razorpay payment gateways, NextAuth authentication, and MongoDB-based data management. I also worked on improving performance and user experience through efficient database queries and responsive UI design.</p>
+<p>I have a strong interest in problem-solving and software engineering fundamentals, and I've solved more than 450 DSA problems on platforms like LeetCode and GeeksforGeeks. This has helped me strengthen my analytical thinking and coding skills.</p>
+<p>Currently, I'm looking for an opportunity where I can contribute to meaningful products, work on scalable systems, and continue growing both technically and professionally as a full stack developer.</p>
+</blockquote>
+</details>
 
 ---
 
@@ -143,6 +159,137 @@ public class Abhishek extends Developer {
       <img src="https://img.shields.io/badge/Operating_Systems-FFA500?style=flat-square&logo=linux&logoColor=white" alt="OS"/>
       <img src="https://img.shields.io/badge/Computer_Networks-800000?style=flat-square" alt="CN"/>
       <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-000000?style=flat-square&logo=scrumalliance&logoColor=white" alt="Agile/Scrum"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+### **Sofrego Private Limited** | Java Full Stack Developer *(Full-Time)*
+*January 2024 – Present | Location: Pune, Maharashtra*
+> **Core Tech**: Java, Spring Boot, Spring Security, Hibernate/JPA, MySQL, MongoDB, React.js, Next.js, TypeScript, JUnit, Mockito, Swagger, Docker, Git
+
+* ⚙️ **Core Feature Engineering**: Architected and developed a secure banking loan application form module using Java and Spring Boot. Enabled end-users to input, validate, and download highly structured official loan records.
+* 🔐 **Security Implementations**: Developed JWT and OAuth 2.0-based token authentication flows integrated with Spring Security to secure transactional endpoints and implement Role-Based Access Control (RBAC).
+* 🗄️ **Database Scaling**: Constructed and optimized database schemas in MySQL (relational) and MongoDB (non-relational) using Hibernate/JPA, writing complex indexes and custom SQL/MongoDB query chains that reduced query search latency by 30%.
+* 🧪 **Quality Assurance**: Achieved 85%+ backend code coverage by authoring comprehensive unit and mock tests with JUnit and Mockito. Documented all endpoints via Swagger/OpenAPI.
+* 🔄 **Agile Collaboration**: Worked in an Agile Scrum squad, managing code branching via Git/GitHub, compiling builds with Maven, containerizing developer workspaces via Docker, and contributing to production releases.
+
+---
+
+### **Sofrego Private Limited** | Frontend Developer Intern
+*July 2023 – December 2023 | Location: Pune, Maharashtra*
+> **Core Tech**: React.js, Next.js, Redux Toolkit, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI, Axios, Vercel, Git
+
+* 📱 **Responsive UI/UX Development**: Built and styled interactive storefront dashboards for an e-commerce platform, ensuring mobile-first responsive design across all viewports using Tailwind CSS and Material UI. Improved loading metrics by 15%.
+* 📊 **State Management & API Integration**: Managed client state (shopping carts, user filtering, session logs) using Redux Toolkit. Integrated backend REST endpoints using Axios with global error-handling catchers.
+* 🚀 **Production Deployment**: Configured project bundles, implementing code-splitting and asset optimization, and deployed frontend builds onto Vercel.
+
+---
+
+## 📂 Project Portfolio Deep-Dive
+
+<details>
+<summary><b>🛒 Project 1: AbhiTech Store – Same-Day Electronics E-Commerce Platform</b></summary>
+<br/>
+
+> **Core Tech**: Java 17, Spring Boot, Spring Security, Spring Cloud Gateway, React.js, Redux Toolkit, MySQL, Redis, Apache Kafka, Elasticsearch, Docker, Razorpay, Cloudinary
+
+* **Microservices Architecture**: Designed and implemented a scalable microservices architecture with dedicated services for authentication, products, orders, payments, inventory, cart, delivery, notifications, and analytics.
+* **Authentication & Token Caching**: Built secure authentication and authorization using JWT, Spring Security, and Google OAuth, including token blacklisting with Redis.
+* **Payment Gateway**: Integrated Razorpay Payment Gateway for secure online transactions and automated payment verification workflows.
+* **Smart Caching**: Implemented Redis caching for product data, OTP management, rate limiting, and server-side persistent cart functionality.
+* **Event-Driven Messaging**: Utilized Apache Kafka for event-driven communication between services, enabling real-time inventory updates, notifications, delivery assignments, and analytics tracking.
+* **Advanced Text Search**: Developed advanced product search and autocomplete functionality using Elasticsearch with typo tolerance and filtering capabilities.
+* **Real-time Analytics Dashboards**: Created responsive React.js user and admin dashboards with Redux Toolkit for state management and real-time business analytics.
+* **Pincode & Logistics Operations**: Implemented pincode-based same-day delivery eligibility checks, order tracking, wishlist management, product reviews, and coupon management.
+* **Containerization**: Containerized the complete application using Docker and Docker Compose, simplifying deployment, scalability, and environment consistency.
+* **Robust Standards**: Followed industry-standard design patterns including Controller-Service-Repository architecture, DTO-based communication, global exception handling, API Gateway routing, and database-per-service design.
+</details>
+
+<details>
+<summary><b>📄 Project 2: Secure Document & Form Management System</b></summary>
+<br/>
+
+> **Core Tech**: React.js, Spring Boot, REST APIs, Maven, Hibernate/JPA, iText / OpenPDF, Axios, HTML5, CSS3
+
+* **RESTful Endpoints**: Designed RESTful endpoints to handle payload submissions, input sanitization, and server-side validation.
+* **Dynamic PDF Generation**: Integrated iText/OpenPDF in the Spring Boot backend to dynamically construct letter-format PDFs from user-submitted questionnaires.
+* **Separation of Concerns**: Applied Controller-Service-DTO separation patterns for clean, scalable backend architecture.
+* **Global Handling**: Configured global custom exception handling and CORS rules.
+* **Conditional UI Flow**: Used Axios for API calls and implemented conditional rendering to unlock PDF downloads only upon validation success.
+</details>
+
+<details>
+<summary><b>🍵 Project 3: GetMeAChai (Creator-Support Platform)</b></summary>
+<br/>
+
+> **Core Tech**: React.js, Next.js, Node.js, Express.js, MongoDB with Mongoose, NextAuth.js, Razorpay, Tailwind CSS, Context API, React-Toastify, HTML5, CSS3
+
+* **Payment & Webhooks**: Integrated Razorpay payment gateways with transaction verification webhooks, mapping supporter histories in real-time.
+* **OAuth Authentication**: Utilized NextAuth.js to handle secure OAuth authentication via GitHub and email providers.
+* **Financial Dashboards**: Designed a dynamic dashboard displaying real-time financial tracking, top supporters, and username-based custom profiles.
+* **Query Performance**: Optimized MongoDB database queries utilizing `.limit()` and index sorting for faster load times.
+* **Advanced SEO**: Enhanced SEO with Next.js dynamic metadata generation.
+</details>
+
+<details>
+<summary><b>🎓 Project 4: Learniverse (College Major Project)</b></summary>
+<br/>
+
+> **Core Tech**: HTML5, CSS3, SCSS, JavaScript, Bootstrap
+
+* **Cross-Browser Parity**: Built a highly responsive, multi-page frontend interface ensuring cross-browser styling parity.
+* **Structured Styling**: Utilized SCSS modules for clean, structured, and maintainable styling sheets.
+* **Interactive UI**: Implemented client-side input validations and smooth interactive page animations using JavaScript.
+* **Modular Layouts**: Developed course navigation, application dashboards, and custom cards for job board modules.
+</details>
+
+<details>
+<summary><b>🎨 Project 5: Personal Portfolio Website</b></summary>
+<br/>
+
+> **Core Tech**: React.js, Tailwind CSS, AOS (Animate on Scroll), Firebase, Framer Motion, Lucide Icons, Material UI, SweetAlert2
+
+* **Interactive Motion**: Incorporated fluid scroll animations and interactive transitions using Framer Motion and AOS.
+* **Serverless Deployment**: Built a modular component structure deployed onto Firebase Hosting.
+* **Rich Components**: Used SweetAlert2 for interactive, visually appealing contact form popups and alerts.
+</details>
+
+---
+
+## 🏆 Achievements, Certifications & Behavioral Profile
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Key Achievements</h3>
+      <ul>
+        <li><b>DSA Problem Solving</b>: Solved 450+ data structures and algorithm problems across LeetCode and GeeksforGeeks, demonstrating strong analytical and logical reasoning.</li>
+        <li><b>100 Days of Learning Challenge</b>: Successfully completed the continuous learning challenge, focusing on Advanced Java, Spring Boot microservices, and system design patterns.</li>
+        <li><b>Full Lifecycle Understanding</b>: Strong comprehension of the Software Development Lifecycle (SDLC), including requirements gathering, development, testing, CI/CD, and monitoring.</li>
+      </ul>
+      
+      <h3>📜 Professional Certifications</h3>
+      <ul>
+        <li><b>Backend Web Development</b>: Certified in JavaScript, Node.js, and Express.js by the Microsoft Learn Student Ambassadors program.</li>
+        <li><b>HackerRank Verification</b>: Certified in CSS, JavaScript, React.js, and SQL by HackerRank.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Behavioral Profile</h3>
+      <ul>
+        <li><b>Core Strengths</b>: Exceptional consistency, dedication to code quality, rapid adaptation to new frameworks, and active team communication.</li>
+        <li><b>Area of Improvement (Weakness)</b>: A tendency to multitask, which occasionally spreads focus. I actively address this by utilizing Agile prioritization, Jira boards, and time-boxing tasks to maintain high quality.</li>
+      </ul>
+      
+      <h3>🍳 Personal Interests</h3>
+      <ul>
+        <li><b>Cooking</b>: Relaxes and exercises creativity, preparing diverse recipes.</li>
+        <li><b>Mobile Gaming</b>: Keeps quick-thinking reflexes sharp and strategic thinking active.</li>
+      </ul>
     </td>
   </tr>
 </table>
