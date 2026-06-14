@@ -1,80 +1,8 @@
 <div align="center">
 
 <!-- Custom SVG Neon Header Banner -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 260" width="100%">
-  <!-- Definitions for gradients and filters -->
-  <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050814" />
-      <stop offset="50%" stop-color="#0a0f24" />
-      <stop offset="100%" stop-color="#050814" />
-    </linearGradient>
-    
-    <!-- Text Glow Filter -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-    
-    <!-- Cyan-to-Purple Gradient for text and glows -->
-    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00D4FF" />
-      <stop offset="100%" stop-color="#9d4edd" />
-    </linearGradient>
-    
-    <!-- Subtle Grid Pattern -->
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ffffff" stroke-width="1" stroke-opacity="0.03" />
-    </pattern>
-  </defs>
-
-  <!-- Background Rect -->
-  <rect width="100%" height="100%" fill="url(#bg-grad)" rx="10" />
-  <rect width="100%" height="100%" fill="url(#grid)" rx="10" />
-  
-  <!-- Glowing background circles -->
-  <circle cx="50" cy="50" r="100" fill="#00D4FF" opacity="0.08" filter="url(#glow)" />
-  <circle cx="800" cy="210" r="120" fill="#9d4edd" opacity="0.08" filter="url(#glow)" />
-
-  <!-- Futuristic frame border -->
-  <rect x="15" y="15" width="820" height="230" fill="none" stroke="#00D4FF" stroke-width="1" stroke-opacity="0.2" rx="8" />
-  <!-- Corner ticks -->
-  <path d="M 15 35 L 15 15 L 35 15" fill="none" stroke="#00D4FF" stroke-width="2.5" />
-  <path d="M 835 35 L 835 15 L 815 15" fill="none" stroke="#00D4FF" stroke-width="2.5" />
-  <path d="M 15 225 L 15 245 L 35 245" fill="none" stroke="#00D4FF" stroke-width="2.5" />
-  <path d="M 835 225 L 835 245 L 815 245" fill="none" stroke="#00D4FF" stroke-width="2.5" />
-
-  <!-- Tech Dots representing Nodes -->
-  <circle cx="700" cy="80" r="4" fill="#00D4FF" opacity="0.6" />
-  <line x1="700" y1="80" x2="750" y2="120" stroke="#00D4FF" stroke-width="1" stroke-opacity="0.3" />
-  <circle cx="750" cy="120" r="6" fill="#9d4edd" opacity="0.8" />
-  <line x1="750" y1="120" x2="720" y2="180" stroke="#9d4edd" stroke-width="1" stroke-opacity="0.3" />
-  <circle cx="720" cy="180" r="3" fill="#00D4FF" opacity="0.5" />
-  
-  <!-- Code Symbol (Brackets) floating on left -->
-  <text x="70" y="150" font-family="monospace" font-size="90" fill="#ffffff" fill-opacity="0.04" font-weight="900">&lt;/&gt;</text>
-
-  <!-- Content Group -->
-  <g transform="translate(0, 0)">
-    <!-- Title -->
-    <text x="425" y="115" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="800" fill="url(#accent-grad)" text-anchor="middle" letter-spacing="6">
-      ABHISHEK KUMAR
-    </text>
-    
-    <!-- Divider Line -->
-    <line x1="250" y1="140" x2="600" y2="140" stroke="url(#accent-grad)" stroke-width="2" stroke-opacity="0.8" />
-    
-    <!-- Subtitle -->
-    <text x="425" y="175" font-family="monospace" font-size="16" font-weight="600" fill="#ffffff" fill-opacity="0.85" text-anchor="middle" letter-spacing="3">
-      SOFTWARE DEVELOPMENT ENGINEER &amp; FULL STACK DEVELOPER
-    </text>
-    
-    <!-- Tiny floating terminal prompts -->
-    <text x="35" y="45" font-family="monospace" font-size="12" fill="#00D4FF" opacity="0.4">abhishek:~$ init --profile</text>
-    <text x="815" y="45" font-family="monospace" font-size="12" fill="#9d4edd" opacity="0.4" text-anchor="end">status: active</text>
-  </g>
-</svg>
+<!-- Custom Animated SVG Header Banner -->
+<img src="./header.svg" alt="Abhishek Kumar Banner" width="100%" />
 
 <br/>
 

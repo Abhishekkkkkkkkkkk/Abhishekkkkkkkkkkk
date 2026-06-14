@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 300" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="50%" stop-color="#0b1530" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+
+    <!-- Accent Gradient -->
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#00f0ff" />
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00f0ff" stroke-width="1" stroke-opacity="0.04" />
+    </pattern>
+
+    <!-- Glow Filter for Neon Effects -->
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    
+    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      .title-text {
+        font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+        font-size: 44px;
+        font-weight: 900;
+        letter-spacing: 8px;
+        fill: url(#accent-grad);
+        text-anchor: middle;
+        animation: neon-pulse 4s ease-in-out infinite;
+      }
+      .subtitle-text {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 14px;
+        font-weight: 700;
+        letter-spacing: 4px;
+        fill: #e0f2fe;
+        fill-opacity: 0.85;
+        text-anchor: middle;
+      }
+      .terminal-text {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 11px;
+        fill: #00f0ff;
+        opacity: 0.5;
+      }
+      .animated-border {
+        stroke: #00f0ff;
+        stroke-opacity: 0.3;
+        stroke-dasharray: 20, 280;
+        stroke-dashoffset: 0;
+        animation: border-flow 8s linear infinite;
+      }
+      .glowing-circle-cyan {
+        fill: #00f0ff;
+        opacity: 0.08;
+        animation: float-cyan 6s ease-in-out infinite;
+      }
+      .glowing-circle-purple {
+        fill: #a855f7;
+        opacity: 0.08;
+        animation: float-purple 8s ease-in-out infinite;
+      }
+      .tech-node {
+        animation: blink 3s infinite ease-in-out;
+      }
+
+      /* Keyframe Animations */
+      @keyframes neon-pulse {
+        0%, 100% {
+          filter: drop-shadow(0 0 2px rgba(0, 240, 255, 0.4)) drop-shadow(0 0 8px rgba(168, 85, 247, 0.2));
+        }
+        50% {
+          filter: drop-shadow(0 0 6px rgba(0, 240, 255, 0.8)) drop-shadow(0 0 16px rgba(168, 85, 247, 0.6));
+        }
+      }
+      @keyframes border-flow {
+        0% {
+          stroke-dashoffset: 0;
+        }
+        100% {
+          stroke-dashoffset: -1200;
+        }
+      }
+      @keyframes float-cyan {
+        0%, 100% { transform: translate(0, 0); }
+        50% { transform: translate(-20px, 15px); }
+      }
+      @keyframes float-purple {
+        0%, 100% { transform: translate(0, 0); }
+        50% { transform: translate(25px, -15px); }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 0.9; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background Layer -->
+  <rect width="100%" height="100%" fill="url(#bg-grad)" rx="12" />
+  <rect width="100%" height="100%" fill="url(#grid)" rx="12" />
+
+  <!-- Floating Ambient Glow Lights -->
+  <circle cx="100" cy="80" r="140" class="glowing-circle-cyan" filter="url(#soft-glow)" />
+  <circle cx="750" cy="220" r="160" class="glowing-circle-purple" filter="url(#soft-glow)" />
+
+  <!-- Outer Frame -->
+  <rect x="15" y="15" width="820" height="270" fill="none" stroke="#a855f7" stroke-width="1.5" stroke-opacity="0.15" rx="8" />
+  
+  <!-- Flowing Light Borders -->
+  <rect x="15" y="15" width="820" height="270" fill="none" stroke-width="2" class="animated-border" rx="8" />
+  
+  <!-- Corner Design Accents -->
+  <path d="M 15 45 L 15 15 L 45 15" fill="none" stroke="#00f0ff" stroke-width="3" />
+  <path d="M 835 45 L 835 15 L 805 15" fill="none" stroke="#00f0ff" stroke-width="3" />
+  <path d="M 15 255 L 15 285 L 45 285" fill="none" stroke="#00f0ff" stroke-width="3" />
+  <path d="M 835 255 L 835 285 L 805 285" fill="none" stroke="#00f0ff" stroke-width="3" />
+
+  <!-- Decorative Circuit Node Lines (Right side) -->
+  <g stroke="#00f0ff" stroke-width="1" stroke-opacity="0.2">
+    <line x1="720" y1="80" x2="770" y2="120" />
+    <line x1="770" y1="120" x2="740" y2="190" />
+    <line x1="740" y1="190" x2="790" y2="230" />
+  </g>
+  <circle cx="720" cy="80" r="4" fill="#00f0ff" class="tech-node" />
+  <circle cx="770" cy="120" r="6" fill="#a855f7" class="tech-node" style="animation-delay: 1s;" />
+  <circle cx="740" cy="190" r="3" fill="#00f0ff" class="tech-node" style="animation-delay: 1.5s;" />
+  <circle cx="790" cy="230" r="5" fill="#a855f7" class="tech-node" style="animation-delay: 0.5s;" />
+
+  <!-- Floating Large HTML Brackets (Background left) -->
+  <text x="60" y="175" font-family="'Segoe UI', sans-serif" font-size="120" font-weight="900" fill="#ffffff" fill-opacity="0.02" text-anchor="middle">&lt;/&gt;</text>
+
+  <!-- Main Information -->
+  <g transform="translate(0, 10)">
+    <!-- Terminal Lines -->
+    <text x="35" y="40" class="terminal-text">abhishek:~$ init --profile</text>
+    <text x="815" y="40" class="terminal-text" text-anchor="end">status: active</text>
+
+    <!-- Name / Brand -->
+    <text x="425" y="125" class="title-text">ABHISHEK KUMAR</text>
+    
+    <!-- Neon Gradient Accent Underline -->
+    <rect x="262" y="148" width="326" height="3" fill="url(#accent-grad)" rx="1.5" filter="url(#neon-glow)" />
+
+    <!-- Role / Tagline -->
+    <text x="425" y="185" class="subtitle-text">SOFTWARE DEVELOPMENT ENGINEER &amp; FULL STACK DEVELOPER</text>
+    
+    <!-- Core Stack Indicators -->
+    <g transform="translate(425, 225)" font-family="'Courier New', Courier, monospace" font-size="12" font-weight="bold" fill="#00f0ff" text-anchor="middle" opacity="0.8">
+      <text>[ JAVA ]  •  [ SPRING BOOT ]  •  [ REACT ]  •  [ NEXT.JS ]</text>
+    </g>
+  </g>
+</svg>
