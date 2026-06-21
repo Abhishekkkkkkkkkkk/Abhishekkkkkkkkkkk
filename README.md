@@ -26,8 +26,8 @@
     String role          = "Java Full Stack Developer";
     String experience    = "3+ Years (BFSI &amp; E-Commerce)";
     String location      = "Pune, Maharashtra, India";
-    String contactPhone  = "+91-8421573950";
-    String emailAddress  = "krabhishek2k02@gmail.com";
+    String contactPhone  = "+91-9699322892";
+    String emailAddress  = "krabhishek.dev@gmail.com";
     String portfolioUrl  = "krabhishek.vercel.app";
     String educationInfo = "B.Tech. CSE — CDGI, Indore";
     boolean openToWork   = true;
@@ -303,7 +303,7 @@
 | **💼 Professional LinkedIn** | [linkedin.com/in/abhishek2k24](https://www.linkedin.com/in/abhishek2k24) |
 | **🧩 LeetCode Profile** | [leetcode.com/Abhi_1_2_3](https://leetcode.com/Abhi_1_2_3) |
 | **📚 GeeksforGeeks Profile** | [auth.geeksforgeeks.org/user/krabhishek0321](https://auth.geeksforgeeks.org/user/krabhishek0321) |
-| **📧 Direct Email Address** | [krabhishek2k02@gmail.com](mailto:krabhishek2k02@gmail.com) |
+| **📧 Direct Email Address** | [krabhishek.dev@gmail.com](mailto:krabhishek.dev@gmail.com) |
 
 <br/>
 
