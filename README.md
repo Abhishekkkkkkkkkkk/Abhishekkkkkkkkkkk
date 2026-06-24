@@ -1,7 +1,5 @@
 <div align="center">
 
-# YOLO Test
-
 <!-- Custom Animated SVG Header Banner -->
 <img src="./header.svg" alt="Abhishek Kumar Banner" width="100%" />
 
